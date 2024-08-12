@@ -249,8 +249,8 @@ get_station_info:
 get_dates:
     this function returns a list of all the dates at the beginning of the week across a year. This is used in various functions to help sort or 
     organize data. Not useful indepentently.
-parameters:         (date, start_date, end_date)
-    date - the start date for recording, in "01-01" format
-        type: string
-    start_date - see cluster_using_all_wks
-    end_date - see cluster_using_all_wks
+    parameters:         (date, start_date, end_date)
+        date - the start date for recording, in "01-01" format
+            type: string
+        start_date - see cluster_using_all_wks
+        end_date - see cluster_using_all_wks
