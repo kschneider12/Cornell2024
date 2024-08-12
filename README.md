@@ -1,20 +1,20 @@
 Table of Contents:
     Introduction
     Functions:
-        cluster_using_all_wks
-        coord_clusters2
-        mapping
-        using_all_weeks
-        graph_comparison
-        daily_no_avg
-        show_site_data
-        graphing (evap)
-        get_all_data (evap)
-        process_eddi3 (evap)
-        find_similarities
-        within_range
-        get_station_info
-        get_dates
+        cluster_using_all_wks;
+        coord_clusters2;
+        mapping;
+        using_all_weeks;
+        graph_comparison;
+        daily_no_avg;
+        show_site_data;
+        graphing (evap);
+        get_all_data (evap);
+        process_eddi3 (evap);
+        find_similarities;
+        within_range;
+        get_station_info;
+        get_dates;
 
 Introduction:
 Over the past few months, I have been working with multiple datasets in order to help define flash droughts. Initially starting with groundwater
